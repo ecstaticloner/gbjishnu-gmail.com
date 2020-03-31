@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e0e2960-1c6e-4c7a-b04a-a1cc0ad1201a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZhnFl8z7B77msTe3VfUwbl6faJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../learning with Mosh" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../learning with Mosh" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.person">
+    <configuration name="clsassNobjects" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../learning with Mosh" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../learning with Mosh/clsassNobjects.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exceptinon handling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../learning with Mosh" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../learning with Mosh/exceptinon handling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="person" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../learning with Mosh" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../learning with Mosh/person.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch_9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="smileyconverter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/smileyconverter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.person" />
+        <item itemvalue="Python.clsassNobjects" />
+        <item itemvalue="Python.scratch_9" />
+        <item itemvalue="Python.exceptinon handling" />
+        <item itemvalue="Python.smileyconverter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e0e2960-1c6e-4c7a-b04a-a1cc0ad1201a" name="Default Changelist" comment="" />
+      <created>1585300091789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585300091789</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585403807438">
+      <screen x="0" y="27" width="1366" height="675" />
+    </state>
+    <state x="141" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.675@0.27.1366.675" timestamp="1585403807438" />
+    <state x="461" y="112" width="424" height="520" key="FileChooserDialogImpl" timestamp="1585386467934">
+      <screen x="0" y="27" width="1366" height="675" />
+    </state>
+    <state x="461" y="112" width="424" height="520" key="FileChooserDialogImpl/0.27.1366.675@0.27.1366.675" timestamp="1585386467934" />
+    <state width="1342" height="128" key="GridCell.Tab.0.bottom" timestamp="1585636534001">
+      <screen x="0" y="27" width="1366" height="675" />
+    </state>
+    <state width="1342" height="129" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1585462601996">
+      <screen x="0" y="27" width="1366" height="675" />
+    </state>
+    <state width="1342" height="129" key="GridCell.Tab.0.bottom.inPresentationMode/0.27.1366.675@0.27.1366.675" timestamp="1585462601996" />
+    <state width="1342" height="224" key="GridCell.Tab.0.bottom/0.27.1366.470@0.27.1366.470" timestamp="1585561485973" />
+    <state width="1342" height="128" key="GridCell.Tab.0.bottom/0.27.1366.675@0.27.1366.675" timestamp="1585636534001" />
+    <state width="1342" height="128" key="GridCell.Tab.0.center" timestamp="1585636534000">
+      <screen x="0" y="27" width="1366" height="675" />
+    </state>
+    <state width="1342" height="129" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1585462601995">
+      <screen x="0" y="27" width="1366" height="675" />
+    </state>
+    <state width="1342" height="129" key="GridCell.Tab.0.center.inPresentationMode/0.27.1366.675@0.27.1366.675" timestamp="1585462601995" />
+    <state width="1342" height="224" key="GridCell.Tab.0.center/0.27.1366.470@0.27.1366.470" timestamp="1585561485971" />
+    <state width="1342" height="128" key="GridCell.Tab.0.center/0.27.1366.675@0.27.1366.675" timestamp="1585636534000" />
+    <state width="1342" height="128" key="GridCell.Tab.0.left" timestamp="1585636534000">
+      <screen x="0" y="27" width="1366" height="675" />
+    </state>
+    <state width="1342" height="129" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1585462601994">
+      <screen x="0" y="27" width="1366" height="675" />
+    </state>
+    <state width="1342" height="129" key="GridCell.Tab.0.left.inPresentationMode/0.27.1366.675@0.27.1366.675" timestamp="1585462601994" />
+    <state width="1342" height="224" key="GridCell.Tab.0.left/0.27.1366.470@0.27.1366.470" timestamp="1585561485969" />
+    <state width="1342" height="128" key="GridCell.Tab.0.left/0.27.1366.675@0.27.1366.675" timestamp="1585636534000" />
+    <state width="1342" height="128" key="GridCell.Tab.0.right" timestamp="1585636534001">
+      <screen x="0" y="27" width="1366" height="675" />
+    </state>
+    <state width="1342" height="129" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1585462601995">
+      <screen x="0" y="27" width="1366" height="675" />
+    </state>
+    <state width="1342" height="129" key="GridCell.Tab.0.right.inPresentationMode/0.27.1366.675@0.27.1366.675" timestamp="1585462601995" />
+    <state width="1342" height="224" key="GridCell.Tab.0.right/0.27.1366.470@0.27.1366.470" timestamp="1585561485972" />
+    <state width="1342" height="128" key="GridCell.Tab.0.right/0.27.1366.675@0.27.1366.675" timestamp="1585636534001" />
+    <state x="172" y="27" width="1125" height="675" key="SettingsEditor" timestamp="1585550420607">
+      <screen x="0" y="27" width="1366" height="675" />
+    </state>
+    <state x="172" y="27" width="1125" height="675" key="SettingsEditor/0.27.1366.675@0.27.1366.675" timestamp="1585550420607" />
+    <state x="339" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1585568394926">
+      <screen x="0" y="27" width="1366" height="675" />
+    </state>
+    <state x="339" y="192" key="com.intellij.ide.util.TipDialog/0.27.1366.675@0.27.1366.675" timestamp="1585568394926" />
+    <state x="391" y="27" width="573" height="675" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585491336073">
+      <screen x="0" y="27" width="1366" height="675" />
+    </state>
+    <state x="391" y="27" width="573" height="675" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1366.675@0.27.1366.675" timestamp="1585491336073" />
+    <state x="346" y="26" key="search.everywhere.popup" timestamp="1585306331835">
+      <screen x="0" y="27" width="1366" height="470" />
+    </state>
+    <state x="346" y="26" key="search.everywhere.popup/0.27.1366.470@0.27.1366.470" timestamp="1585306331835" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py</url>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
